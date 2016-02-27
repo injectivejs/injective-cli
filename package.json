@@ -1,0 +1,26 @@
+{
+    "name": "injective-cli",
+    "version": "0.0.1",
+    "author": "Mau Ka Ming <ahmautom@gmail.com> (https://www.facebook.com/maukaming)",
+    "description": "Injective cli addon",
+    "keywords": [
+        "injective",
+        "cli",
+        "dependency tree"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/injectivejs/injective-cli"
+    },
+    "bugs": {
+        "url": "https://github.com/injectivejs/injective-cli/issues"
+    },
+    "license": "MIT",
+    "main": "lib",
+    "dependencies": {
+        "archy": "^1.0.0"
+    },
+    "engines": {
+        "node": ">= 0.12.0"
+    }
+}
